@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "$AD_QA_GURU_PYTHON_10_14_HW",
+    "environment": "PROD",
+    "comment": "LOCAL RUN",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "some token",
+    "chat": "chat ID",
+    "replyTo": ""
+  }
+}
