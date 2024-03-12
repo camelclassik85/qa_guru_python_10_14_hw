@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "AD_TEST",
+    "environment": "PROD",
+    "comment": "LOCAL RUN",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "bot token",
+    "chat": "chat id",
+    "replyTo": ""
+  }
+}
